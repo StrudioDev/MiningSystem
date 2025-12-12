@@ -10,16 +10,6 @@ A high-quality, game-feel focused mining system for Roblox, built with [Rojo](ht
 
 ---
 
-## 📋 Table of Contents
-- [Features](#-features)
-- [Visual Showcase](#-visual-showcase)
-- [Setup Guide](#-setup-guide)
-- [Configuration](#-configuration)
-- [Project Structure](#-project-structure)
-- [Troubleshooting](#-troubleshooting)
-
----
-
 ## ✨ Features
 
 ### 🎮 Gameplay Mechanics
