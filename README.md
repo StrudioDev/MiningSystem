@@ -6,6 +6,8 @@
 
 A high-quality, game-feel focused mining system for Roblox, built with [Rojo](https://rojo.space/). This system features client-side prediction for satisfying visual feedback ("juice") backed by secure server-side validation.
 
+[![Play Demo](https://img.shields.io/badge/PLAY%20DEMO-00C53C?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/games/109782771230625/Mining-System)
+
 > **Note**: This system is designed to be a showcase for Roblox mining systems with minimal configuration required.
 
 ---
