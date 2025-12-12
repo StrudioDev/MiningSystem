@@ -6,9 +6,11 @@
 
 A high-quality, game-feel focused mining system for Roblox, built with [Rojo](https://rojo.space/). This system features client-side prediction for satisfying visual feedback ("juice") backed by secure server-side validation.
 
-> **Note**: This system is designed to be "plug-and-play" with minimal configuration required.
+> **Note**: This system is designed to be a showcase for Roblox mining systems with minimal configuration required.
 
 ---
+
+
 
 ## ✨ Features
 
@@ -31,13 +33,9 @@ A high-quality, game-feel focused mining system for Roblox, built with [Rojo](ht
 - **Health Bars**: Dynamic billboard health bars that appear on interaction and fade/remove on destruction.
 - **Animation Blending**: Mining animations blend seamlessly with movement (walk/idle) using AnimationWeights.
 
-## � Visual Showcase
-
-*(Add your screenshots or GIFs here)*
-
 ---
 
-## �🛠️ Setup Guide
+## 🛠️ Setup Guide
 
 ### 1. Prerequisites
 - [Rojo](https://rojo.space/) installed.
