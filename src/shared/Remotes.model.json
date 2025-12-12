@@ -1,0 +1,11 @@
+{
+    "className": "Folder",
+    "children": {
+        "Mine": {
+            "$className": "RemoteEvent"
+        },
+        "MineResult": {
+            "$className": "RemoteEvent"
+        }
+    }
+}
